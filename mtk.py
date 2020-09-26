@@ -3,10 +3,11 @@ import sys
 
 os.system ('clear')
 os.system ('figlet MTK | lolcat')
-print "========================"
+print "==========================================="
 print "AutHor : danGaming13114"
 print "YouTube: daniGeming13114"
-print "========================"
+print "GitHub : https://github.com/daniGaming13114
+print "==========================================="
 print
 print "[+] PILIH MENU  [+]"
 print
